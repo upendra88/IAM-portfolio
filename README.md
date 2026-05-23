@@ -66,11 +66,11 @@ The following enterprise IAM workflows were implemented:
 ```bash
 ├── architecture/
 ├── screenshots/
-│   ├── saturday1/
-│   ├── saturday2/
-│   ├── saturday3/
-│   ├── saturday4/
-│   └── saturday5/
+│   ├── week1/
+│   ├── week2/
+│   ├── week3/
+│   ├── week4/
+│   └── week5/
 ├── midpoint-config/
 ├── ldap-config/
 ├── auth0-config/
