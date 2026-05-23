@@ -83,7 +83,7 @@ The following enterprise IAM workflows were implemented:
 
 # 🚀 Session Deliverables
 
-# Saturday 1 – Environment Setup & Architecture
+# Week 1 – Environment Setup & Architecture
 
 ## Deliverables
 - IAM architecture design
@@ -106,7 +106,7 @@ Designed and deployed a complete IAM lab environment using midPoint, OpenLDAP, a
 
 ---
 
-# Saturday 2 – Joiner Workflow Automation
+# Week 2 – Joiner Workflow Automation
 
 ## Deliverables
 - HR source connector configuration
@@ -129,7 +129,7 @@ Implemented automated Joiner workflows using midPoint reconciliation and provisi
 
 ---
 
-# Saturday 3 – Mover & Leaver Workflows
+# Week 3 – Mover & Leaver Workflows
 
 ## Deliverables
 - Role definitions
@@ -152,7 +152,7 @@ Configured RBAC-driven Mover and Leaver workflows to automate access modificatio
 
 ---
 
-# Saturday 4 – Access Management & Federation
+# Week 4 – Access Management & Federation
 
 ## Deliverables
 - Auth0 tenant configuration
@@ -175,7 +175,7 @@ Implemented OIDC and SAML federation using Auth0, including JWT validation and a
 
 ---
 
-# Saturday 5 – Career Preparation & Portfolio Finalization
+# Week 5 – Career Preparation & Portfolio Finalization
 
 ## Deliverables
 - IAM-focused resume bullets
